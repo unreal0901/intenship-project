@@ -1,0 +1,25 @@
+.wrapper{
+position: relative;
+}
+
+
+.buckets{
+ display: flex;
+ /* flex-direction: column; */
+ gap: 2em;
+}
+
+.historytable{
+ position:fixed;
+ bottom: 0;
+ display: flex;
+ gap: 2em;
+ padding: 10px;
+}
+
+.historyitem{
+ display: flex;
+ flex-direction: column;
+ border: 2px solid black;
+ padding: 5px;
+}

@@ -1,0 +1,17 @@
+.iframeBox{
+ position: absolute;
+ top: 50%;
+ left: 20%;
+}
+
+.closebtn{
+ display: flex;
+ justify-content: flex-end;
+}
+
+.closebtn button{
+ background-color: transparent;
+ border: none;
+ font-size: 30px;
+ color: rgb(241, 92, 92);
+}
